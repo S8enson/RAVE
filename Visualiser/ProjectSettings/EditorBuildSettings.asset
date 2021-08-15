@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 68c3b27ea42954caab63ca4b921ad14d
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Phyllo.unity
+    guid: 5aba793f7a64844aa8a82ccf166f2edc
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Basic.unity
+    guid: 2abea5d612ad64aa5aa994851576bda9
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Fireflies.unity
+    guid: 67c20f605c8c340c4b9d50a3cc6d8d0e
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Acid.unity
+    guid: 6e2433864c2ea48cda7c367d24af1eaa
+  - enabled: 1
+    path: Assets/Scenes/Visualisers.unity
+    guid: a26cbd2d4a7f04a8c9478b63d72c7f8f
+  - enabled: 1
+    path: Assets/Scenes/Equaliser.unity
+    guid: 0dd902d5ef1bd4e11a5de0635ed5ec14
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 9e1d99c63eb314414a6713317b7159f0
+  - enabled: 1
+    path: Assets/Scenes/HowToUseRAVE.unity
+    guid: 87121564f62cedd4397a9a10b7d60a36
+  - enabled: 1
+    path: Assets/Scenes/AudioSetup.unity
+    guid: 2e97a7af0580cc1439fc1c80e7686e99
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Flower.unity
+    guid: 45c102947892d4398bf938bc850d9640
+  - enabled: 1
+    path: Assets/Scenes/Visualisers/Matrix.unity
+    guid: fb213419e73c24db3ac8fa9051fced5a
+  - enabled: 1
+    path: Assets/Scenes/Playlist.unity
+    guid: 65ddece46566b4761a93a01e07a924b9
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/KaraokeTestScene.unity
+    guid: ddce1a8fd3f534ef5a9a224c65f0db1c
+  m_configObjects: {}
