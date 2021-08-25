@@ -9,6 +9,8 @@ Visualiser/Build/
 Visualiser/Builds/
 Visualiser/Logs/
 Visualiser/UserSettings/
+Visualiser/Assets/guipack
+Visualiser/Assets/Scripts/Libraries/guipack
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
